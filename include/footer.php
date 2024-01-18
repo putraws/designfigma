@@ -1,13 +1,12 @@
-    <!--Footer-->
-    <div class="c_desktop1-frame270">
-      <div class="c_desktop1-frame271">
-        <div class="c_desktop1-frame272">
-          <div class="c_desktop1-frame273">
+<div class="c_desktop1-frame275">
+      <div class="c_desktop1-frame276">
+        <div class="c_desktop1-frame277">
+          <div class="c_desktop1-frame278">
             <div class="c_desktop1-text309">
               <p class="c_desktop1-text310">JOB CATEGORIES</p>
             </div>
           </div>
-          <div class="c_desktop1-frame274">
+          <div class="c_desktop1-frame279">
             <div class="c_desktop1-text311">
               <p class="c_desktop1-text312">Popular Job</p>
             </div>
@@ -19,13 +18,13 @@
             </div>
           </div>
         </div>
-        <div class="c_desktop1-frame275">
-          <div class="c_desktop1-frame276">
+        <div class="c_desktop1-frame280">
+          <div class="c_desktop1-frame281">
             <div class="c_desktop1-text317">
               <p class="c_desktop1-text318">SOCIAL MEDIA</p>
             </div>
           </div>
-          <div class="c_desktop1-frame277">
+          <div class="c_desktop1-frame282">
             <div class="c_desktop1-text319">
               <p class="c_desktop1-text320">Facebook</p>
             </div>
@@ -46,13 +45,13 @@
             </div>
           </div>
         </div>
-        <div class="c_desktop1-frame278">
-          <div class="c_desktop1-frame279">
+        <div class="c_desktop1-frame283">
+          <div class="c_desktop1-frame284">
             <div class="c_desktop1-text331">
               <p class="c_desktop1-text332">RESOURCES</p>
             </div>
           </div>
-          <div class="c_desktop1-frame280">
+          <div class="c_desktop1-frame285">
             <div class="c_desktop1-text333">
               <p class="c_desktop1-text334">Support</p>
             </div>
@@ -67,13 +66,13 @@
             </div>
           </div>
         </div>
-        <div class="c_desktop1-frame281">
-          <div class="c_desktop1-frame282">
+        <div class="c_desktop1-frame286">
+          <div class="c_desktop1-frame287">
             <div class="c_desktop1-text341">
               <p class="c_desktop1-text342">YourJobPedia</p>
             </div>
           </div>
-          <div class="c_desktop1-frame283">
+          <div class="c_desktop1-frame288">
             <div class="c_desktop1-text343">
               <p class="c_desktop1-text344">Managed by</p>
             </div>
@@ -90,38 +89,38 @@
             </div>
           </div>
         </div>
-        <div class="c_desktop1-frame284">
-          <div class="c_desktop1-frame285">
+        <div class="c_desktop1-frame289">
+          <div class="c_desktop1-frame290">
             <div class="c_desktop1-text348">
               <p class="c_desktop1-text349">CONTACT US</p>
             </div>
           </div>
-          <div class="c_desktop1-frame286">
-            <div class="c_desktop1-frame287">
+          <div class="c_desktop1-frame291">
+            <div class="c_desktop1-frame292">
               <img
                 src="./assets/f668b0bd5e502fd7b8b1a97417512dab.svg"
                 alt="frame"
                 width="30"
                 height="30"
-                class="c_desktop1-frame288"
+                class="c_desktop1-frame293"
               />
               <div class="c_desktop1-text350">
                 <p class="c_desktop1-text351">+6281910177431</p>
               </div>
             </div>
-            <div class="c_desktop1-frame289">
+            <div class="c_desktop1-frame294">
               <img
                 src="./assets/ddd60813ae9143b56c2482529235a8cc.svg"
                 alt="frame"
                 width="30"
                 height="30"
-                class="c_desktop1-frame290"
+                class="c_desktop1-frame295"
               />
               <div class="c_desktop1-text352">
                 <p class="c_desktop1-text353">-</p>
               </div>
             </div>
-            <div class="c_desktop1-frame291">
+            <div class="c_desktop1-frame296">
               <div class="c_desktop1-text354">
                 <p class="c_desktop1-text355">DOWNLOAD NOW</p>
               </div>
@@ -129,7 +128,7 @@
           </div>
         </div>
       </div>
-      <div class="c_desktop1-frame292">
+      <div class="c_desktop1-frame297">
         <div class="c_desktop1-text356">
           <p class="c_desktop1-text357">HELPDESK</p>
           <p class="c_desktop1-text358">Contact Us!</p>
@@ -139,7 +138,7 @@
           alt="frame"
           width="74"
           height="80"
-          class="c_desktop1-frame293"
+          class="c_desktop1-frame298"
         />
       </div>
     </div>
